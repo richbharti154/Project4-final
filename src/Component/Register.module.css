@@ -1,0 +1,85 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.wrap{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 5rem; */
+    margin: 0;
+    padding: 0 ;
+    background-image:url('https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/07/21/Pictures/_d6c5a6cc-8cab-11e8-a23e-bc16ac6b2c17.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 38.06rem;
+}
+
+.box{
+margin-top: 2em;
+border: 2px solid black;
+border-radius: 20px;
+width: 40%;
+height: 70vh;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-evenly;
+background-color:rgba(143, 142, 211, 0.623);
+margin-left: 4rem;
+box-shadow: 10px 10px 10px rgb(197, 19, 19) ;
+}
+
+.input{
+  width: 100%;
+  height: 4vh;
+}
+.button{
+  display: block;
+ 
+}
+.but{
+   
+  color: white;
+ 
+ 
+}
+.submit{
+  
+  width:4.375rem;
+  height: 1.875rem;
+  border-radius: 5px;
+  border: none;
+  color: black;
+  background-color: greenyellow;
+
+}
+ 
+  
+.Emoji{
+  border: none;
+  height: 1.875rem;
+  margin-left: 2rem;
+  background-color: greenyellow;
+  border-radius: 0.312rem;
+}
+.password{
+  color:white ;
+  text-shadow:px 2px red;
+}
+.message{
+  color:white ;
+  text-shadow:px 2px red;
+}
+message1{
+  color:white ;
+  text-shadow:px 2px red;
+}
+
+
+ 
